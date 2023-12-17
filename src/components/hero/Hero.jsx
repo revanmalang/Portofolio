@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume.pdf";
+import resumePDF from "../../assets/MochRevanoBudiansyah_CV";
 
 
 const Hero = () => {
@@ -74,7 +74,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/moch-revano-1b6151256/">
+                <a href="https://www.linkedin.com/in/moch-revano-budiansyah-1b6151256/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
